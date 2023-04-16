@@ -1,5 +1,4 @@
-Decentralized Library
-
+PolyRead
 
 A PolyRead is a digital Library that uses Web3 to log user in to read books and earn.
 =======
